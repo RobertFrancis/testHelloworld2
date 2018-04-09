@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1B82EB34-105D-49B4-A14D-5A150CE5AF72}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testHelloworld2/MainActivity.cs">
+    <Files>
+      <File FileName="testHelloworld2/MainActivity.cs" Line="24" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.testHelloworld2 PreferredExecutionTarget="Android.ad0816031914b313c9" />
+</Properties>
